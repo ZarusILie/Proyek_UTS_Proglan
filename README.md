@@ -1,5 +1,5 @@
 # Proyek_UTS_Proglan
-Proyek UTS Mata Kuliah Pemrograman Lanujut
+Proyek UTS Mata Kuliah Pemrograman Lanjut
 
 "Among Us"
 
